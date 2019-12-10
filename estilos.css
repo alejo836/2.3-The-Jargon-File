@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(149, 183, 233);
+    font-family: sans-serif;
+}
+p{
+    text-align: justify;
+}
+
+h1{
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2{
+    background-color: rgb(56, 130, 241);
+    font-size: 200%;
+}
+h3{
+    background-color: lightskyblue;
+    color: white;
+    font-size: 150%;
+}
