@@ -22,3 +22,19 @@ h3{
     color: white;
     font-size: 150%;
 }
+
+blockquote{
+    font-style: oblique;
+}
+pre{
+    background-color: white;
+    font-size: 100%;
+    text-align: left;
+    font-weight: bold;
+}
+
+address{
+    font-family: serif;
+    font-style: inherit;
+    text-align: right;
+}
