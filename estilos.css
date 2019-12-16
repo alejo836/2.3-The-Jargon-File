@@ -7,7 +7,7 @@ p{
 }
 
 h1{
-    font-size: 300%;
+    font-size: 250%;
     text-align: center;
     text-decoration: underline;
     
@@ -15,12 +15,12 @@ h1{
 
 h2{
     background-color: rgb(56, 130, 241);
-    font-size: 200%;
+    font-size: 150%;
 }
 h3{
     background-color: lightskyblue;
     color: white;
-    font-size: 150%;
+    font-size: 100%;
 }
 
 blockquote{
@@ -28,7 +28,7 @@ blockquote{
 }
 pre{
     background-color: white;
-    font-size: 100%;
+    font-size: 50%;
     text-align: left;
     font-weight: bold;
 }
